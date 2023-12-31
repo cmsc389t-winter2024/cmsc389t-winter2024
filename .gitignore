@@ -1,0 +1,5 @@
+# ignore macos cache files
+**/.DS_Store
+# ignore the autograder
+autograder/
+
